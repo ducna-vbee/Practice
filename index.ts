@@ -1,6 +1,6 @@
 function index()
 {
-    console.log("Here")
+    console.log("Hello world.")
 }
 
 index();
